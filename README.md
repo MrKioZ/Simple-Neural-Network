@@ -1,2 +1,2 @@
-# Simple-Neural-Network
-A Simple Neural Network
+# Simple-Neuron
+A Simple Neuron
